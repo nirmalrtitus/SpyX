@@ -1,0 +1,11 @@
+file,label
+C:\projects\SPY_X\scanner\app.py,Legitimate
+C:\projects\SPY_X\scanner\model.pkl,Legitimate
+C:\projects\SPY_X\scanner\requirements.txt,Legitimate
+C:\projects\SPY_X\scanner\scan.py,Legitimate
+C:\projects\SPY_X\scanner\scan_results.csv,Legitimate
+C:\projects\SPY_X\scanner\templates\index.html,Legitimate
+C:\projects\SPY_X\scanner\utils\feature_Extractor.py,Legitimate
+C:\projects\SPY_X\scanner\utils\predict.py,Legitimate
+C:\projects\SPY_X\scanner\utils\__pycache__\feature_Extractor.cpython-312.pyc,Legitimate
+C:\projects\SPY_X\scanner\utils\__pycache__\predict.cpython-312.pyc,Legitimate
